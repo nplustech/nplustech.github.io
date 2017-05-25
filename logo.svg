@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="501.698" height="264.994" viewBox="0 0 1401 740">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #2980b9;
-        stroke: #fff;
-        stroke-width: 5px;
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M462,173h996c110.46,0,200,89.543,200,200V708c0,110.457-89.54,200-200,200H462c-110.457,0-200-89.543-200-200V373C262,262.543,351.543,173,462,173ZM654.157,760.555V491.331L865.565,760.555h113.88V320.219H865.565V589.443L654.157,320.219H539.693V760.555H654.157ZM1067.63,577.763h119.13V696.9h74.75V577.763h118.56V503.011H1261.51V383.875h-74.75V503.011H1067.63v74.752Z" transform="translate(-259.5 -170.5)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="501.698" height="264.994" viewBox="0 0 1401 740"><defs><style>.cls-1 {fill: #fff; fill-rule: evenodd; }</style></defs><path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M202.5 2.5h996c110.46 0 200 89.543 200 200v335c0 110.457-89.54 200-200 200h-996c-110.457 0-200-89.543-200-200v-335c0-110.457 89.543-200 200-200zm192.157 587.555V320.83l211.408 269.225h113.88V149.72h-113.88v269.223L394.657 149.72H280.193v440.335h114.464zM808.13 407.263h119.13V526.4h74.75V407.263h118.56V332.51h-118.56V213.376h-74.75V332.51H808.13v74.753z"/></svg>
